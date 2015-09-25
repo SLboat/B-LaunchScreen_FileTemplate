@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DefaultCompletionName</key>
+	<string>LaunchScreen</string>
+	<key>AllowedTypes</key>
+	<array>
+		<string>com.apple.dt.interfacebuilder.document.storyboard</string>
+	</array>
+	<key>Platforms</key>
+	<array>
+		<string>com.apple.platform.iphoneos</string>
+	</array>
+	<key>SortOrder</key>
+	<integer>2</integer>
+	<key>MainTemplateFile</key>
+	<string>___FILEBASENAME___.storyboard</string>
+	<key>Description</key>
+	<string>建立一个森亮号的启动界面</string>
+	<key>Options</key>
+	<array>
+		<dict>
+			<key>Default</key>
+			<string></string>
+			<key>Description</key>
+			<string>船长,咋门这次建造的编序是多少?</string>
+			<key>Identifier</key>
+			<string>slnum</string>
+			<key>Name</key>
+			<string>航行编序: SL.A.</string>
+			<key>Required</key>
+			<true/>
+			<key>NotPersisted</key>
+			<false/>
+			<key>Type</key>
+			<string>text</string>
+		</dict>
+	</array>
+</dict>
+</plist>
